@@ -2,7 +2,7 @@
 //  CalculatorView.swift
 //  QuickSplit
 //
-//  Created by Pubudu Mihiranga on 2024-11-10.
+
 //
 
 import SwiftUI
